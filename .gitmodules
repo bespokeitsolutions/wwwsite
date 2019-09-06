@@ -1,0 +1,3 @@
+[submodule "bespokeitsolutions.github.io"]
+	path = bespokeitsolutions.github.io
+	url = git@github.com:bespokeitsolutions/bespokeitsolutions.github.io.git
