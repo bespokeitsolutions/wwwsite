@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on BITS - Bespoke IT Solutions</title>
-    <link>https://bespokeitsolutions.net/tags/</link>
+    <link>https://bespokeitsolutions.github.io/tags/</link>
     <description>Recent content in Tags on BITS - Bespoke IT Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Sep 2019 19:16:28 +0100</lastBuildDate>
     
-	<atom:link href="https://bespokeitsolutions.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bespokeitsolutions.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>cloud</title>
-      <link>https://bespokeitsolutions.net/tags/cloud/</link>
+      <link>https://bespokeitsolutions.github.io/tags/cloud/</link>
       <pubDate>Fri, 06 Sep 2019 19:16:28 +0100</pubDate>
       
-      <guid>https://bespokeitsolutions.net/tags/cloud/</guid>
+      <guid>https://bespokeitsolutions.github.io/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hosting</title>
-      <link>https://bespokeitsolutions.net/tags/hosting/</link>
+      <link>https://bespokeitsolutions.github.io/tags/hosting/</link>
       <pubDate>Fri, 06 Sep 2019 19:16:28 +0100</pubDate>
       
-      <guid>https://bespokeitsolutions.net/tags/hosting/</guid>
+      <guid>https://bespokeitsolutions.github.io/tags/hosting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>managed services</title>
-      <link>https://bespokeitsolutions.net/tags/managed-services/</link>
+      <link>https://bespokeitsolutions.github.io/tags/managed-services/</link>
       <pubDate>Fri, 06 Sep 2019 19:16:28 +0100</pubDate>
       
-      <guid>https://bespokeitsolutions.net/tags/managed-services/</guid>
+      <guid>https://bespokeitsolutions.github.io/tags/managed-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>migration</title>
-      <link>https://bespokeitsolutions.net/tags/migration/</link>
+      <link>https://bespokeitsolutions.github.io/tags/migration/</link>
       <pubDate>Fri, 06 Sep 2019 19:16:28 +0100</pubDate>
       
-      <guid>https://bespokeitsolutions.net/tags/migration/</guid>
+      <guid>https://bespokeitsolutions.github.io/tags/migration/</guid>
       <description></description>
     </item>
     

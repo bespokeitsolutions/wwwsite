@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BITS - Bespoke IT Solutions</title>
-    <link>https://bespokeitsolutions.net/</link>
+    <link>https://bespokeitsolutions.github.io/</link>
     <description>Recent content on BITS - Bespoke IT Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Sep 2019 19:16:28 +0100</lastBuildDate>
     
-	<atom:link href="https://bespokeitsolutions.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bespokeitsolutions.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Infrastructure Migration</title>
-      <link>https://bespokeitsolutions.net/blog/2019/09/06/infrastructure-migration/</link>
+      <link>https://bespokeitsolutions.github.io/blog/2019/09/06/infrastructure-migration/</link>
       <pubDate>Fri, 06 Sep 2019 19:16:28 +0100</pubDate>
       
-      <guid>https://bespokeitsolutions.net/blog/2019/09/06/infrastructure-migration/</guid>
+      <guid>https://bespokeitsolutions.github.io/blog/2019/09/06/infrastructure-migration/</guid>
       <description>Considering migratinon of infrastructure to cloud? Why you should consider migrating to a cloud provider? There are reasons like cost effectivty, you can reduce the cost of hosting your own server. Benefits like high-availability, scaling and auto-scaling. You avoid additonal costs for hardware, you can easily upscale or downscale your cloud servers based on your needs.
 What are caveats of migration to cloud provider? You don&amp;rsquo;t know where are your data in terms of physical location, you just believe they are somewhere.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://bespokeitsolutions.net/about/</link>
+      <link>https://bespokeitsolutions.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bespokeitsolutions.net/about/</guid>
+      <guid>https://bespokeitsolutions.github.io/about/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. Who we are? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://bespokeitsolutions.net/contact/</link>
+      <link>https://bespokeitsolutions.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bespokeitsolutions.net/contact/</guid>
+      <guid>https://bespokeitsolutions.github.io/contact/</guid>
       <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
 Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://bespokeitsolutions.net/faq/</link>
+      <link>https://bespokeitsolutions.github.io/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bespokeitsolutions.net/faq/</guid>
+      <guid>https://bespokeitsolutions.github.io/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
