@@ -1,4 +1,4 @@
-baseurl = "https://bespokeitsolutions.net"
+baseurl = "https://bespokeitsolutions.github.io"
 title = "BITS - Bespoke IT Solutions"
 theme = "bits"
 themesDir = "themes/"
