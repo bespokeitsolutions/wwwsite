@@ -4,7 +4,7 @@ date: 2019-09-06T19:16:28+01:00
 tags: ["cloud","migration","hosting","managed services"]
 categories: ["blog"]
 description: "Migration of infrastructure to cloud provider"
-banner: "img/banners/default.jpg"
+banner: "/img/banners/default.jpg"
 draft: false
 ---
 

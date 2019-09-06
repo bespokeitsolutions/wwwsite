@@ -1,4 +1,4 @@
-baseurl = "https://bespokeitsolutions.github.io/"
+baseurl = "https://bespokeitsolutions.github.io"
 title = "BITS - Bespoke IT Solutions"
 theme = "bits"
 themesDir = "themes/"
@@ -112,8 +112,8 @@ paginate = 7
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo-small.png"
+    logo = "/img/logo.png"
+    logo_small = "/img/logo-small.png"
     address = """<p><strong>Bespoke IT Solutions Ltd.</strong>
         <br />Vancouver BC,
         <br />Canada
