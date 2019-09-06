@@ -10,7 +10,7 @@ disqus = "false"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-publishDir = "bespokeitsolutions.github.io"
+
 # Define the number of posts per page
 paginate = 7
 
