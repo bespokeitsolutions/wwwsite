@@ -165,7 +165,7 @@ paginate = 7
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
+    icon = "fa fa-question"
     title = "Do you want to know more?"
     subtitle = "At BITS we believe in providing the client with what they need. Off the shelf solutions will give you functionality you require. BITS can customize such solutions, help you choose tools and plan your business growth."
     link_url = "#"

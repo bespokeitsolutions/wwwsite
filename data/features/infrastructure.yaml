@@ -1,4 +1,4 @@
 weight: 3
 name: "Infrastructure"
-icon: "fa fa-globe"
+icon: "fa fa-server"
 description: "Taking care about your servers and network devices is a must. Scheduled maintenace for security patches and software updates on Windows and Linux or Unix platforms is curcial to protect your data and data of your customers."
