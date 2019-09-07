@@ -13,10 +13,10 @@
     
     <item>
       <title>Infrastructure Migration</title>
-      <link>https://bespokeitsolutions.github.io/blog/2019/09/06/infrastructure-migration/</link>
+      <link>https://bespokeitsolutions.github.io/blog/infrastructure-migration/</link>
       <pubDate>Fri, 06 Sep 2019 19:16:28 +0100</pubDate>
       
-      <guid>https://bespokeitsolutions.github.io/blog/2019/09/06/infrastructure-migration/</guid>
+      <guid>https://bespokeitsolutions.github.io/blog/infrastructure-migration/</guid>
       <description>Considering migratinon of infrastructure to cloud? Why you should consider migrating to a cloud provider? There are reasons like cost effectivty, you can reduce the cost of hosting your own server. Benefits like high-availability, scaling and auto-scaling. You avoid additonal costs for hardware, you can easily upscale or downscale your cloud servers based on your needs.
 What are caveats of migration to cloud provider? You don&amp;rsquo;t know where are your data in terms of physical location, you just believe they are somewhere.</description>
     </item>
