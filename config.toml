@@ -1,4 +1,4 @@
-baseurl = "https://bespokeitsolutions.github.io"
+baseurl = "https://bespokeitsolutions.github.io/"
 title = "BITS - Bespoke IT Solutions"
 theme = "bits"
 themesDir = "themes/"
@@ -126,6 +126,7 @@ paginate = 7
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
